@@ -1,2 +1,2 @@
 # fristTest
-This is my Frist test。
+This is my frist test。
